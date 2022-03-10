@@ -1,0 +1,4 @@
+INFO:root:Connection close for question 1
+INFO:root:Connection close for question 2
+INFO:root:Engine object created. Returning it
+INFO:root:Successfully uploaded the excel file to database.
